@@ -24,3 +24,4 @@ Security considerations have been incorporated at multiple levels. While the cur
 
 The complete solution includes supporting resources such as icon files for the GUI, properly organized in a package directory structure matching the Java naming conventions. Developers can extend this foundation with additional features like private messaging, file transfers, or user authentication. The project serves as an excellent demonstration of core Java networking capabilities while providing a functional, extensible codebase suitable for educational purposes or as a starting point for more complex collaborative applications. Proper documentation within the code explains key components and design decisions, making it accessible for both learning and further development.
 
+![Image](https://github.com/user-attachments/assets/8228d274-6dce-4182-a378-c036867d182e)
